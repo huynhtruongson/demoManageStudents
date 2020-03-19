@@ -1,1 +1,1 @@
-Demo manage students
+Demo manage students with node modules
